@@ -6,7 +6,7 @@ Using ledongthuc/pdf and phpdave11/gofpdf to split and parse pdf (Using go versi
 # if using go modules, please
 export GO111MODULE=on
 go mod init golang-pdf-example
-go get -u github.com/phpdave11
+go get -u github.com/phpdave11/gofpdf
 go get -u github.com/ledongthuc/pdf
 ```
 

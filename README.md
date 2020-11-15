@@ -1,5 +1,5 @@
 # golang-pdf-examples
-Using ledongthuc/pdf and phpdave11/gofpdf to split and parse pdf
+Using ledongthuc/pdf and phpdave11/gofpdf to split and parse pdf (Using go version 1.13)
 
 ## Install via go modules
 ```
